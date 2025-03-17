@@ -1,0 +1,28 @@
+/* Importing Google fonts Inter */
+@import url('https://fonts.googleapis.com/css?family=Inter:opsz,wght@14..32,100..900&display=swap');
+
+.containergeral {
+  background-image: url("../images/celula1.jpeg");
+	background-repeat: no-repeat;
+  background-size: 100%;
+  border-radius: 1px;
+  height: 760px;   
+  padding-right: 1px;
+  margin-right: 1px;
+}
+
+/*
+.fotos_celula{
+    width: 30%;
+    height: auto;
+}
+
+[data-component="slideshow"] .slide {
+	display: none;
+  text-align: center;
+}
+
+[data-component="slideshow"] .slide.active {
+	display: block;
+}
+*/
